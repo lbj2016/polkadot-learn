@@ -1,0 +1,21 @@
+{
+    "name": "polkadot-learn",
+    "version": "0.0.1",
+    "description": "learn polkadot",
+    "main": "index.ts",
+    "author": "lbj",
+    "private": false,
+    "license": "unlicense",
+    "scripts": {
+      "start": "node index.ts"
+    },
+    "dependencies": {
+      "@polkadot/api": "^7.8.1",
+      "@polkadot/types": "^7.8.1",
+      "web3": "1.5.1"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.19"
+    }
+  }
+  
